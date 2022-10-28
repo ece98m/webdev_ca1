@@ -6,6 +6,13 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     Created on : 21 Oct 2022, 23:19:58
     Author     : ece
 */
+#warning {
+  
+  margin-left: 10px;
+  margin-top: 0px;
+  font-size: 50%
+  
+}
 table {
     background-color:beige ;
     border-collapse: collapse;
@@ -30,8 +37,9 @@ table {
   }
   
   div{
-      margin-left: 180px;
-       margin-right: 180px;
+      margin-left: 190px;
+      margin-top: 50px;
+       margin-right: 190px;
   }
   ul {
       
@@ -58,9 +66,9 @@ table {
       text-align: center;
   
     padding-top: 14px;
-    padding-right: 30px;
+    padding-right: 28px;
     padding-bottom: 16px;
-    padding-left: 31px;
+    padding-left: 28px;
     text-decoration: none;
   }
   
